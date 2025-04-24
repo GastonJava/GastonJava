@@ -8,4 +8,4 @@ You can click the Preview link to take a look at your changes.
 - 👋 Hi, I’m @GastonJava
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning system analyst
-- 📫 How to reach me linkedin http://www.linkedin.com/in/dotnetgas
+- 📫 How to reach me linkedin http://www.linkedin.com/in/dotnetg
